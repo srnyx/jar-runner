@@ -1,5 +1,5 @@
 description = "jar_runner"
-version = "1.0.0"
+version = "1.1.0"
 group = "xyz.srnyx"
 
 plugins {
